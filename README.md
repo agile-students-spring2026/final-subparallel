@@ -6,10 +6,10 @@ VocabLearn is a full-stack application that allows users to learn and practice n
 
 ## Team members
 
-[Akshara Taraniganty](https://github.com/akshara-t)
-[Hitaansh Jain](https://github.com/hitaanshjain)
-[Wonden Gyatso](https://github.com/wondeng)
-[Sara Herschmann](https://github.com/saramhersch)
+[Akshara Taraniganty](https://github.com/akshara-t)  
+[Hitaansh Jain](https://github.com/hitaanshjain)  
+[Wonden Gyatso](https://github.com/wondeng)  
+[Sara Herschmann](https://github.com/saramhersch)  
 
 ## History
 
