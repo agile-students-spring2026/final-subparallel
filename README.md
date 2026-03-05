@@ -1,8 +1,10 @@
 # VocabLearn
 
-## Product Vision Statement
+## Description and Product Vision Statement
 
 VocabLearn is a full-stack application that allows users to learn and practice new words to expand their vocabulary. 
+
+Our minimum viable product features a word bank to which the user can add words, which can be either entered by the user or generated. Once users accumulate enough words, they can be quizzed on the words in their bank, and they can see how many times they have successfully answers questions involving a given word. In addition, the app includes a reverse dictionary feature for users to look up words based on a prompt or definition.  
 
 ## Team members
 
